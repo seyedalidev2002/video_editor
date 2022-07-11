@@ -197,7 +197,7 @@ Since [v1.3.0](https://github.com/seel-channel/video_editor/releases/tag/v1.3.0)
 To do this, add this to your `pubspec.yaml`:
 ```yaml
 dependency_overrides:
-  ffmpeg_kit_flutter_min_gpl: ^4.5.1-LTS
+  ffmpeg_kit_flutter_full: ^4.5.1-LTS
 ```
 
 ## ✨ Main contributors
